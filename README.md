@@ -13,8 +13,6 @@ This project presents a real-time fire detection system developed for a machine 
 
 ## Installation
 
-To set up the project, follow these steps:
-
 1. Clone the repository:
    ```
    git clone https://github.com/leharris3/comp-562-final-project.git
@@ -27,7 +25,7 @@ To set up the project, follow these steps:
 
 ## Usage
 
-To use the fire detection system, follow these instructions:
+To implement our work, follow these instructions:
 
 1. Activate the system with the provided script:
    ```
