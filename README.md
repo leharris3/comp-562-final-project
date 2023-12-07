@@ -17,7 +17,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone [(https://github.com/leharris3/comp-562-final-project.git)]
+   git clone https://github.com/leharris3/comp-562-final-project.git
    ```
 2. Install dependencies:
    ```
