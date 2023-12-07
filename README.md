@@ -1,10 +1,6 @@
 # Real-Time Wildfire Detection with MobileNet
 ***
 
-Certainly! Crafting a README for your GitHub repository is an excellent way to showcase your project. A well-written README effectively communicates what your project does, how it works, and how others can use or contribute to it. Here's a simple yet comprehensive template for your real-time fire detection system using a fine-tuned MobileNet model:
-
----
-
 ## Overview
 This project presents a real-time fire detection system developed for a machine learning class. We implement a fine-tuned MobileNet model, optimized for efficient on-device vision applications. We provide a lightweight yet accurate solution for identifying fires in real-time video feeds, which could be crucial for early fire detection and prevention measures.
 
@@ -62,7 +58,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Special thanks to the machine learning instructors at the University of North Carolina at Chapel Hill for their guidance.
 - The dataset providers for their valuable resources.
-
----
-
-Feel free to adjust the content to better fit the specifics of your project, such as the details of the dataset, the exact command lines for running the application, and the contribution guidelines. A well-documented README is a key part of any successful open-source project, as it helps others understand and engage with your work.
